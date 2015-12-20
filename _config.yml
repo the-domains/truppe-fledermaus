@@ -1,5 +1,4 @@
-favicon: null
-name: TRUPPE FLEDERMAUS
+layout_spectrum: 0.01075269
 opengraph:
   image: null
   type: null
@@ -10,24 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8691756
   brandStrength: 1
   lightness: 0.9229391
   brandColors:
-    - '#30314A'
-    - '#5C5C6E'
-    - '#999093'
+    - '#020205'
+    - '#7F899B'
+    - '#C6CED0'
+    - '#20536E'
+    - '#669C2F'
   rhythmicContrast: 0.797491
-typography_spectrum: 0.6630824
-layout_spectrum: 0.01075269
+typography_spectrum: 0.8978494
 cta:
   bucket: null
   version: null
@@ -36,3 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: TRUPPE FLEDERMAUS
