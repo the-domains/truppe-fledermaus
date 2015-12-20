@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: TRUPPE FLEDERMAUS
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.1810036
+  saturation: 0.03046595
+  lightness: 1
   brandStrength: 0.4336918
-  lightness: 0
   brandColors:
     - '#80BCFB'
     - '#5B89CE'
     - '#423930'
     - '#F3FDFF'
     - '#030D04'
-  rhythmicContrast: 0.1326165
+  rhythmicContrast: 0
 typography_spectrum: 0.8978494
-layout_spectrum: 0.01075269
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: TRUPPE FLEDERMAUS
+layout_spectrum: 0.01075269
+analytics:
+  twitter: null
+  google: null
+  facebook: null
