@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T19:40:58.457Z'
-dateModified: '2015-12-20T19:36:29.565Z'
+datePublished: '2015-12-20T20:03:44.616Z'
+dateModified: '2015-12-20T19:40:58.457Z'
 title: Truppe Fledermaus
 author: []
 authors: []
