@@ -36,6 +36,6 @@ color:
     - '#030D04'
   brandStrength: 0.4336918
   lightness: 1
-  saturation: 0.03046595
-  rhythmicContrast: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
