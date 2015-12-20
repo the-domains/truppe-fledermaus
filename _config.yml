@@ -1,6 +1,6 @@
 name: TRUPPE FLEDERMAUS
 favicon: null
-layout_spectrum: 0.49197
+layout_spectrum: 1
 typography_spectrum: 0.90383
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#80BCFB'
-    - '#5B89CE'
-    - '#423930'
-    - '#F3FDFF'
-    - '#030D04'
+    - '#fef7f1'
+    - '#101109'
+    - '#c6c2bf'
+    - '#9b8b84'
+    - '#9e5525'
   brandStrength: 0
   lightness: 1
   saturation: 1
