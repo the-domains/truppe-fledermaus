@@ -1,0 +1,28 @@
+name: TRUPPE FLEDERMAUS
+favicon: null
+layout_spectrum: 0.43733884603716433
+typography_spectrum: 0.6295799368526787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3940889402292669
+  lightness: 0.3591888833325356
+  saturation: 0.3445506866555661
+  rhythmicContrast: 0.942739705555141
+purpose: []
