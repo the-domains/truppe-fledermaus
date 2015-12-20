@@ -35,7 +35,7 @@ color:
     - '#F3FDFF'
     - '#030D04'
   brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
