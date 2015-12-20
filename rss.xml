@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TRUPPE FLEDERMAUS]]></title>
-        <description><![CDATA[TRUPPE FLEDERMAUS]]></description>
+        <title><![CDATA[one hundred views of the drowning world and dreams from a drowning world]]></title>
+        <description><![CDATA[one hundred views of the drowning world and dreams from a drowning world]]></description>
         <link>https://thegrid.ai/truppe-fledermaus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 22:22:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/truppe-fledermaus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DREAMS OF A DROWNING WORLD]]></title>
+            <description><![CDATA[<article><h1>DREAMS OF A DROWNING WORLD</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc029dfed427c3fafdfc50480c7dd775d35ec072.jpg"></article>]]></description>
+            <link>https://thegrid.ai/truppe-fledermaus/truppe-fledermaus/index.html</link>
+            <guid isPermaLink="false">8cd29486-0cdb-4980-9b99-7a2a5ce433c3</guid>
+            <pubDate>Sun, 20 Dec 2015 22:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84426cf-c836-4bf4-bdd3-2c8d6e7a6044.jpg">]]></description>
             <link>https://thegrid.ai/truppe-fledermaus/e47aa082-b0f2-40db-8bc4-d983a962ac94/index.html</link>
             <guid isPermaLink="false">e47aa082-b0f2-40db-8bc4-d983a962ac94</guid>
             <pubDate>Sun, 20 Dec 2015 19:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truppe Fledermaus]]></title>
-            <description><![CDATA[<article><h1>Truppe Fledermaus</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc029dfed427c3fafdfc50480c7dd775d35ec072.jpg"></article>]]></description>
-            <link>https://thegrid.ai/truppe-fledermaus/truppe-fledermaus/index.html</link>
-            <guid isPermaLink="false">8cd29486-0cdb-4980-9b99-7a2a5ce433c3</guid>
-            <pubDate>Sun, 20 Dec 2015 20:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
