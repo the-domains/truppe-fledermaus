@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T22:22:01.440Z'
-dateModified: '2015-12-20T22:21:45.578Z'
+datePublished: '2015-12-21T00:52:54.552Z'
+dateModified: '2015-12-20T22:23:19.956Z'
 title: DREAMS OF A DROWNING WORLD
 author: []
 sourcePath: _posts/2015-12-20-truppe-fledermaus.md
