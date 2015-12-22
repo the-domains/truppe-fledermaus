@@ -35,7 +35,7 @@ color:
     - '#21200d'
     - '#905d1d'
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0
 purpose: []
