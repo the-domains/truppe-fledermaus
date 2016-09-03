@@ -1,41 +1,41 @@
-name: TRUPPE FLEDERMAUS
-favicon: null
-layout_spectrum: 0.84346
-typography_spectrum: 0.90383
+title: one hundred views of the drowning world and dreams from a drowning world
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: one hundred views of the drowning world and dreams from a drowning world
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0.75
+  brandColors:
+    - '#242A26'
+    - '#020302'
+    - '#5F6984'
+    - '#8990A2'
+    - '#BFBFA8'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: TRUPPE FLEDERMAUS
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f2f1ed'
-    - '#b7c8d3'
-    - '#879ebb'
-    - '#21200d'
-    - '#905d1d'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.3237774
+layout_spectrum: 0.242833
